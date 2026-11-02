@@ -1,0 +1,24 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Pytest
+.pytest_cache/
+
+# Debugging
+.ipdb_history
+
+# Local SQLite databases
+*.db
+
+# Operating system files
+.DS_Store
